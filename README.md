@@ -14,6 +14,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 This as the NFT preview card design challenge from [Frontend Mentor](https://www.frontendmentor.io).
 
+[**Live Preview**](https://xdv99.github.io/Frontend-mentor-NFT-preview-card-component/)
+
 ### Screenshot
 
 | ![Image 1](./screenshots/desktop.jpeg) | ![Image 2](./screenshots/mobile.jpeg) |
